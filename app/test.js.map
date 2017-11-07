@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.ts"],"names":[],"mappings":"AAAA;IAAA;IAIA,CAAC;IAHA,yBAAU,GAAV;QACC,MAAM,CAAC,UAAU,CAAC;IACnB,CAAC;IACF,WAAC;AAAD,CAJA,AAIC,IAAA","file":"test.js","sourcesContent":["class test {\r\n\tgetMessage(): string {\r\n\t\treturn \"2nd test\";\r\n\t}\r\n}"],"sourceRoot":"/source/"}
